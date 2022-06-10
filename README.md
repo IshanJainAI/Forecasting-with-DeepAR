@@ -7,7 +7,7 @@ distribution for each time index.
 
 
 # Python Libarary 
-GlutonTS Model 
+GluonTS Model - DeepAR 
 https://ts.gluon.ai/api/gluonts/gluonts.model.deepar.html?highlight=deeparestimator#gluonts.model.deepar.DeepAREstimator
 
 
